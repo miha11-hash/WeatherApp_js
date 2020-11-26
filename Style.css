@@ -1,0 +1,35 @@
+body {
+    background-color: lightgreen;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+max-width: 400px;
+}
+h1{
+color: darkblue;
+}
+label{
+color: darkblue;
+font-weight: bold;
+}
+input[type=text] {
+border: 1px solid darkgreen;
+border-radius: 10px;
+}
+
+input[type=text]:hover {
+background-color: lightgray;
+}
+
+.icon{
+position: relative;
+top: -50px;
+border-radius: 50%;
+width: 100px;
+margin-bottom: -50px;
+
+
+}
+
+
